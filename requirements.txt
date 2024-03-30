@@ -1,0 +1,6 @@
+langchain
+sentence-transformers
+dotenv
+drant-client
+gradio
+fastapi
