@@ -1,4 +1,4 @@
-# barbados-rag-workshop
+# How to run the RAG Powered Copilot demo
 
 1. Install the required python packages
 
@@ -34,6 +34,11 @@ HUGGINGFACEHUB_API_TOKEN= ADD_TOKEN_HERE
 ``` 
 python copilot_chat_gradio.py
 ``` 
+
+## References
+1. https://python.langchain.com/docs/get_started/introduction
+2. https://qdrant.tech/documentation/
+3. https://huggingface.co/spaces/mteb/leaderboard
 
 
 
